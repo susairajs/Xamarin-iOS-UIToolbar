@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSUIToolbar", "XamariniOSUIToolbar\XamariniOSUIToolbar.csproj", "{3EC5F167-B442-47F3-90CF-4A70A620C8FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC5F167-B442-47F3-90CF-4A70A620C8FC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{3EC5F167-B442-47F3-90CF-4A70A620C8FC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{3EC5F167-B442-47F3-90CF-4A70A620C8FC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{3EC5F167-B442-47F3-90CF-4A70A620C8FC}.Release|iPhone.Build.0 = Release|iPhone
+		{3EC5F167-B442-47F3-90CF-4A70A620C8FC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{3EC5F167-B442-47F3-90CF-4A70A620C8FC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{3EC5F167-B442-47F3-90CF-4A70A620C8FC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{3EC5F167-B442-47F3-90CF-4A70A620C8FC}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
