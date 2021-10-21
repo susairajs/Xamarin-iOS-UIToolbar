@@ -1,5 +1,5 @@
-# Xamarin-iOS-UIToolbar
+# Working with UIToolBar in Xamarin.Forms
 
-Blog : https://www.c-sharpcorner.com/article/uitoolbar-in-xamarin-ios/
+More Details : https://www.c-sharpcorner.com/article/uitoolbar-in-xamarin-ios/
 
 ![alt](https://www.c-sharpcorner.com/article/uitoolbar-in-xamarin-ios/Images/image001.png)
